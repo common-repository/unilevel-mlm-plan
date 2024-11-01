@@ -1,0 +1,70 @@
+
+/*.ump-section{position: relative;background: #fafafa;display: flow-root;padding: 5px;}*/
+.setting-left-section{width:12%;float:left;min-height:669px;background: #000;}
+.setting-right-section{width:88%;float:left;}
+.setting-left-section ul li{margin-bottom: 6px;background: #000;padding: 5px;color: #fff;text-decoration: none;border: 1px solid #4475a7;;margin: 0.5rem;}
+.setting-left-section ul li.active{margin-bottom: 6px;background: #1f72aa;padding: 5px;color: #fff;text-decoration: none;margin: 0.5rem;}
+.setting-left-section ul li a{color:#fff;text-decoration:none;}
+.setting-left-section ul li a:hover{color:#fff;text-decoration:none;}
+.ump_heading{
+background: #d8d8d8;
+    padding: 1rem;
+  }
+ .ump-section{width:97%;margin-left:1.5%; border: 1px solid #ccc;padding: 5px;margin-bottom: 20px;height: 90%;display: flow-root;}
+.ump-section ul{margin-bottom: 0px;}
+.ump_width_table
+{
+  width: 97%!important;
+  margin: auto;
+}
+.ump_width_table tbody tr
+{
+  color: #000!important;
+}
+#epin_length_id
+{
+	display: none;
+}#ePin_Price
+{
+	display: none;
+}
+.p2
+{
+      font-size: 1rem!important;
+    font-weight: 800;
+    margin: 29%;
+}
+#ump-acount-table td {
+	padding: 0.5rem!important;
+  text-align:center;
+    border-bottom: 1px solid #e1e1e1;
+}
+
+.h4_bk
+{
+      padding: 1rem;
+    background: #cecece;
+}
+.table-b
+{
+  padding: 0!important;
+  max-width: 48%!important;
+  margin: 1%;
+
+}
+
+.table-p
+{
+  padding: 0!important;
+  max-width: 98%!important;
+  margin: 1%;
+
+}
+#transaction_id{
+  display: none;
+}
+.err_message
+{
+  color: red;
+  font-size: 0.8rem;
+}
